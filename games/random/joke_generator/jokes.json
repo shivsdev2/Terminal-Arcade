@@ -1,0 +1,84 @@
+{
+  "jokes": [
+    {
+      "setup": "Why don't scientists trust atoms?",
+      "punchline": "Because they make up everything!"
+    },
+    {
+      "setup": "What do you call a fake noodle?",
+      "punchline": "An impasta."
+    },
+    {
+      "setup": "Why did the scarecrow win an award?",
+      "punchline": "Because he was outstanding in his field!"
+    },
+    {
+      "setup": "How does a penguin build its house?",
+      "punchline": "Igloos it together."
+    },
+    {
+      "setup": "Why did the bicycle fall over?",
+      "punchline": "It was two-tired."
+    },
+    {
+      "setup": "What do you call a sleeping dinosaur?",
+      "punchline": "A dino-snore!"
+    },
+    {
+      "setup": "Why don't skeletons fight each other?",
+      "punchline": "They don't have the guts."
+    },
+    {
+      "setup": "What do you call a bear with no teeth?",
+      "punchline": "A gummy bear!"
+    },
+    {
+      "setup": "Why did the math book look sad?",
+      "punchline": "Because it had too many problems."
+    },
+    {
+      "setup": "What do you call cheese that isn't yours?",
+      "punchline": "Nacho cheese."
+    },
+    {
+      "setup": "How do you organize a space party?",
+      "punchline": "You planet."
+    },
+    {
+      "setup": "Why did the tomato turn red?",
+      "punchline": "Because it saw the salad dressing!"
+    },
+    {
+      "setup": "What do you call a pile of kittens?",
+      "punchline": "A meowntain."
+    },
+    {
+      "setup": "Why can't a leopard hide?",
+      "punchline": "Because he's always spotted."
+    },
+    {
+      "setup": "What do you call a magician dog?",
+      "punchline": "A Labracadabrador."
+    },
+    {
+      "setup": "Why did the cookie go to the hospital?",
+      "punchline": "Because it was feeling crummy."
+    },
+    {
+      "setup": "What do you call a factory that makes okay products?",
+      "punchline": "A satisfactory."
+    },
+    {
+      "setup": "Why did the golfer bring two pairs of pants?",
+      "punchline": "In case he got a hole in one."
+    },
+    {
+      "setup": "What kind of shoes do banana peels wear?",
+      "punchline": "Slippers."
+    },
+    {
+      "setup": "Why are elevator jokes so good?",
+      "punchline": "They work on so many levels."
+    }
+  ]
+}
