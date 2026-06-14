@@ -68,4 +68,3 @@ def run():
     print(f"Your variance: {counter - 100:+d}")
     print("-----------------------------------------")
 
-run()
