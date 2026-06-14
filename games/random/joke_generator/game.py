@@ -28,5 +28,3 @@ def run():
         print(f"Error: Could not find jokes.json at {json_path}")
     except json.JSONDecodeError:
         print("Error: jokes.json contains invalid JSON formatting.")
-
-run()
