@@ -15,7 +15,7 @@ def run():
         translated_message = []
         for char in message:
             if char.upper() in ALPHABETS:
-                 # replace with random Alphabetss
+                 #replace with random Alphabetss
                 translated_message.append(random.choice(ALPHABETS))
             else:
                 # let non alphabets be the same
