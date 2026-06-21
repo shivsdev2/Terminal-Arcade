@@ -13,8 +13,13 @@ def run():
         'As I see it, yes', 'Yes - definitely', 'You may rely'
     ]
     
-    user_input = input("Enter a question: ")
-    
+    user_input = input("Enter a question: ").strip()
+    if not user_input:
+        print("\nYou didn't ask anything! The Magic 8-Ball remains silent.")
+        return None
+        
     program_response = random.choice(RANDOM_ANSWER)
+    print(f"\nQuestion: {user_input}")
+    print(f"Magic 8-Ball says: {program_response}")
     
     return program_response
